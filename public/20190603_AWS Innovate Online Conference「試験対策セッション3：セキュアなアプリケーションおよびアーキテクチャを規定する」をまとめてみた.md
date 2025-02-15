@@ -1,7 +1,5 @@
 ---
-title: >-
-  AWS Innovate Online Conference
-  「試験対策セッション3：セキュアなアプリケーションおよびアーキテクチャを規定する」をまとめてみた
+title: AWS Innovate Online Conference「試験対策セッション3：セキュアなアプリケーションおよびアーキテクチャを規定する」をまとめてみた
 tags:
   - AWS
   - ソリューションアーキテクト
